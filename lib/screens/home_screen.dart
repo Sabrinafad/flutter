@@ -18,7 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Movies Provider Like'),
+        title: const Text('Movies Provider'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(15),
